@@ -34,5 +34,5 @@ I look forward to my future projects using async js and other API out there.
 
 ## Author
 
-- Website - [Jhonna Vhee F Gedalanga](https://www.2021portfolio.netlify.app)
-- Twitter - [@grumpsofty](https://www.twitter.com/grumpsofty)
+- Website - [Jhonna Vhee F Gedalanga](https://2021portfolio.netlify.app)
+- Twitter - [@grumpsofty](https://twitter.com/grumpsofty)
